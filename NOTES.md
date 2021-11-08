@@ -9,3 +9,7 @@ https://pmocz.github.io/manuscripts/pmocz_sph.pdf
 * no handling of scene geometry--similar problem as with raytracing, use obj
 
 * lacks detail in steps at the end of the derivation. In discrete space, must also estimate gradient operator
+
+https://arxiv.org/pdf/1304.3692.pdf
+* derivation and refinement of method; derivation of gradient operator is paywalled
+
